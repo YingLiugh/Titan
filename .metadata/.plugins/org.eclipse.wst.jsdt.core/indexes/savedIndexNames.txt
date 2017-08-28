@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/Users/yingliu/Documents/projects/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2393765160.index
+1234244087.index
+3156951552.index
+3625314447.index
+1827167629.index
+1016304261.index
+2412654082.index
